@@ -55,10 +55,9 @@ This repository is my personal learning lab to:
 - DNS & Networking fundamentals
 - Git & GitHub for version control
 
----
 
-## 📸 Screenshots
-> *(Add screenshots or GIFs here to showcase your projects)*
+
+
 
 
 
