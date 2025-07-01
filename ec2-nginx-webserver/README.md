@@ -162,7 +162,12 @@ sudo certbot renew --dry-run
 
 ✅ Confirm there are no errors.
 
-![NGINX Deployment Demo](nginx.gif)
+---
+
+
+
+![NGINX Demo](../nginx.gif)
+
 
 
 
